@@ -26,7 +26,7 @@ Welcome, var1 var2 ... varn
 где varn - последний аргумент
 
 для этого написала такой код
-```
+```bash
 #!/bin/bash
 
 echo "Welcome, $*"
